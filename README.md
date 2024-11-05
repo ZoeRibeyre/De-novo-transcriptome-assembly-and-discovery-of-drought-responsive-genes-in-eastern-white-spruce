@@ -1,1 +1,1 @@
-# De-novo-transcriptome-assembly-and-discovery-of-drought-responsive-genes-in-eastern-white-spruce
+# De-novo-transcriptome-assembly-and-discovery-of-drought-responsive-genes-in-white-spruce
